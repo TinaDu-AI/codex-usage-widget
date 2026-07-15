@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Usage Widget"
+  short_description: "Local Codex usage desktop widget."
+  default_prompt: "Install the Codex usage widget on this Mac."

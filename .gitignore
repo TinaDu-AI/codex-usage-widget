@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.sqlite
+*.sqlite-*
+*.jsonl
+codex-usage-rollup-cache.json
+*.bak*
+node_modules/
